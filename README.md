@@ -2,7 +2,7 @@
 
 ## Objetivo Geral
 
-Criar uma urna que permita registrar canditados e execute as etapas de uma votação.
+Criar um programa que permita registrar canditados e execute as etapas de uma votação.
 
 ----
 ### Funcionalidades
